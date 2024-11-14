@@ -27,11 +27,12 @@ Activa el entorno y abre Jupyter Notebook para explorar y ejecutar los cuadernos
 
 ## 📦 Dependencias
 
-- `python = "^3.12"`
+- `python = "^3.10"`
+- `shap = "^0.46.0"`
 - `pandas = "^2.2.3"`
 - `seaborn = "^0.13.2"`
 - `scikit-learn = "^1.5.2"`
-- `numpy = "^2.1.3"`
+- `xgboost = "^2.1.2"`
 
 ## 📂 Estructura del Proyecto
 
